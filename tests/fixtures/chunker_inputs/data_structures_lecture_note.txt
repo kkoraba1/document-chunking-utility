@@ -1,0 +1,1 @@
+Data structures lecture: arrays are fast for indexing, linked lists are better for frequent insertions, and stacks use last-in-first-out order.

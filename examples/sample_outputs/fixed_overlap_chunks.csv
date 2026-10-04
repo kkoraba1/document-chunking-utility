@@ -1,0 +1,30 @@
+chunk_id,source_file,source_path,method,chunk_size,overlap,token_count,max_tokens,tokenizer,chunk_index,chunk_text,start_char,end_char,char_count,word_count
+campus_garden_notes_txt_fe25b38b_fixed_cs40_ov5_000,campus_garden_notes.txt,campus_garden_notes.txt,fixed,40,5,,,,0,"Campus Garden Notes
+
+The campus garden looks different in the morning because the east side gets sunlight first. Most of the tomatoes are still green, but the basil plants are growing quickly near the wooden fence.
+
+The student volunteers watered",0,250,250,40
+campus_garden_notes_txt_fe25b38b_fixed_cs40_ov5_001,campus_garden_notes.txt,campus_garden_notes.txt,fixed,40,5,,,,1,"fence.
+
+The student volunteers watered the raised beds after lunch. One group also pulled weeds around the peppers because the smaller plants were starting to get covered.
+
+Next week, the club should bring extra gloves and mark which beds have",210,457,247,40
+campus_garden_notes_txt_fe25b38b_fixed_cs40_ov5_002,campus_garden_notes.txt,campus_garden_notes.txt,fixed,40,5,,,,2,"and mark which beds have already been watered. The handwritten labels are starting to fade, especially near the herb section.",433,558,125,20
+project_meeting_notes_md_4ddcb141_fixed_cs40_ov5_000,project_meeting_notes.md,project_meeting_notes.md,fixed,40,5,,,,0,"# Project Meeting Notes
+
+## Attendance
+
+Maya, Daniel, Priya, and Lucas attended the meeting. Sam was absent but sent comments by email before class.
+
+## Progress
+
+The group finished the first draft of the introduction and collected three sources for",0,257,257,40
+project_meeting_notes_md_4ddcb141_fixed_cs40_ov5_001,project_meeting_notes.md,project_meeting_notes.md,fixed,40,5,,,,1,"and collected three sources for the background section. Priya said the methods section still needs clearer wording.
+
+## Next Steps
+
+- Daniel will revise the introduction.
+- Maya will format the references.
+- Lucas will make the first version of",226,476,250,40
+project_meeting_notes_md_4ddcb141_fixed_cs40_ov5_002,project_meeting_notes.md,project_meeting_notes.md,fixed,40,5,,,,2,"make the first version of the slides.
+- Priya will check whether the data table matches the written explanation.",451,564,113,19

@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "document-chunking-utility"
+version = "1.0"
+description = "A metadata-rich command-line utility for deterministic text and Markdown document chunking."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "typer>=0.12.0,<1.0.0",
+    "tiktoken>=0.7.0,<1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0,<9.0.0",
+    "pytest-cov>=4.0.0,<8.0.0",
+    "ruff>=0.4.0,<1.0.0",
+]
+demo = [
+    "pandas>=2.0.0,<3.0.0",
+    "matplotlib>=3.8.0,<4.0.0",
+    "jupyter>=1.0.0,<2.0.0",
+]
+
+[project.scripts]
+document-chunker = "document_chunking_utility.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q"
+
+[tool.ruff]
+target-version = "py310"

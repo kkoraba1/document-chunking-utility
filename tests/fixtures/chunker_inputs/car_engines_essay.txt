@@ -1,0 +1,6 @@
+Car Engines
+A car engine turns fuel into motion, which is why it is usually called the heart of a car. The basic gas engine uses spark plugs, pistons, and cylinders to make the wheels move. It is not magic, but it does feel a little complicated when the hood is open.
+
+Diesel engines work in a similar way, but they squeeze the air much harder and do not use spark plugs the same way. They are common in trucks because they can pull heavy loads and last a long time. The tradeoff is that they can sound louder and smell different from regular cars.
+
+Hybrid cars mix a small gas engine with an electric motor. Fully electric cars skip the fuel engine and use batteries instead. Each type has a reason to exist, and the best one depends on cost, distance, repairs, and what the driver actually needs.

@@ -1,0 +1,19 @@
+chunk_id,source_file,source_path,method,chunk_size,overlap,token_count,max_tokens,tokenizer,chunk_index,chunk_text,start_char,end_char,char_count,word_count
+campus_garden_notes_txt_fe25b38b_paragraph_000,campus_garden_notes.txt,campus_garden_notes.txt,paragraph,,,,,,0,Campus Garden Notes,0,19,19,3
+campus_garden_notes_txt_fe25b38b_paragraph_001,campus_garden_notes.txt,campus_garden_notes.txt,paragraph,,,,,,1,"The campus garden looks different in the morning because the east side gets sunlight first. Most of the tomatoes are still green, but the basil plants are growing quickly near the wooden fence.",23,216,193,33
+campus_garden_notes_txt_fe25b38b_paragraph_002,campus_garden_notes.txt,campus_garden_notes.txt,paragraph,,,,,,2,The student volunteers watered the raised beds after lunch. One group also pulled weeds around the peppers because the smaller plants were starting to get covered.,220,383,163,26
+campus_garden_notes_txt_fe25b38b_paragraph_003,campus_garden_notes.txt,campus_garden_notes.txt,paragraph,,,,,,3,"Next week, the club should bring extra gloves and mark which beds have already been watered. The handwritten labels are starting to fade, especially near the herb section.",387,558,171,28
+project_meeting_notes_md_4ddcb141_paragraph_000,project_meeting_notes.md,project_meeting_notes.md,paragraph,,,,,,0,"# Project Meeting Notes
+
+## Attendance
+
+Maya, Daniel, Priya, and Lucas attended the meeting. Sam was absent but sent comments by email before class.",0,152,152,24
+project_meeting_notes_md_4ddcb141_paragraph_001,project_meeting_notes.md,project_meeting_notes.md,paragraph,,,,,,1,"## Progress
+
+The group finished the first draft of the introduction and collected three sources for the background section. Priya said the methods section still needs clearer wording.",156,341,185,28
+project_meeting_notes_md_4ddcb141_paragraph_002,project_meeting_notes.md,project_meeting_notes.md,paragraph,,,,,,2,"## Next Steps
+
+- Daniel will revise the introduction.
+- Maya will format the references.
+- Lucas will make the first version of the slides.
+- Priya will check whether the data table matches the written explanation.",345,564,219,37
